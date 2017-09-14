@@ -18,3 +18,5 @@ title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 sass:
   sass_dir: assets/css
   style: :nested
+
+theme: jekyll-theme-time-machine
