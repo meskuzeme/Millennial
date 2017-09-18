@@ -8,7 +8,7 @@ author:
 # Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'meskuzeme'
 
 menu:
 - {name: 'Interesting Facts', file: 'facts.html'}

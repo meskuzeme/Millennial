@@ -1,14 +1,27 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Mums jau 2 savaitės!"
+author: "Meškų žemė"
 categories: documentation
 tags: [documentation,sample]
 image:
-  feature: cuba-1.jpg
+  feature: 2sav.JPG
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. Below you can find everything you need to get started.
+Šiandien švenčiame 2 savaičių jubiliejų. Šuniukai jau atsimerkę bei reaguoja į garsus. Bando vis daugiau žengti žingsnių nenugriuvus. Džiaugiamės stabiliu augimu bei pieno gausa.
+Svoris:
+1 Violetinis patinukas 1360g
+2 Oranžinis patinukas 1250g
+3 Auksinis patinukas 850g
+4 Žydras patinukas 1350g
+5 Cianas patinukas 1220g
+6 Raudonas patinukas 1070g
+7 Žalia patelė 1240g
+8 Žydra patelė 1190g
+9 Balta patelė 910g
+
+
+![Image of Yaktocat](/assets/img/cuba-2.jpg)
 
 ### Getting Started
 
