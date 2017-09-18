@@ -26,37 +26,19 @@ Svoris:
 
 ### 1. Violetinis patinukas
 <img src="{{ site.github.url }}/assets/img/violetboy2w.jpg">
-
 ### 2. Oranžinis patinukas
-
-
-![Image of Yaktocat](/assets/img/orangeboy2w.jpg)
+<img src="{{ site.github.url }}/assets/img/orangeboy2w.jpg">
 ### 3. Auksinis patinukas
-
-
-![Image of Yaktocat](/assets/img/goldenboy2w.jpg)
+<img src="{{ site.github.url }}/assets/img/goldenboy2w.jpg">
 ### 4. Mėlynas patinukas
-
-
-![Image of Yaktocat](/assets/img/blueboy2w.jpg)
+<img src="{{ site.github.url }}/assets/img/blueboy2w.jpg">
 ### 5. Cianas patinukas
-
-
-![Image of Yaktocat](/assets/img/cyanboy2w.jpg)
+<img src="{{ site.github.url }}/assets/img/cyanboy2w.jpg">
 ### 6. Raudonas patinukas
-
-
-![Image of Yaktocat](/assets/img/redboy2w.jpg)
+<img src="{{ site.github.url }}/assets/img/redboy2w.jpg">
 ### 7. Žalia patelė
-
-
-![Image of Yaktocat](/assets/img/greengirl2w.jpg)
+<img src="{{ site.github.url }}/assets/img/greengirl2w.jpg">
 ### 8. Mėlyna patelė
-
-
-![Image of Yaktocat](/assets/img/bluegirl2w.jpg)
+<img src="{{ site.github.url }}/assets/img/bluegirl2w.jpg">
 ### 9. Balta patelė
-
-
-
-![Image of Yaktocat](/assets/img/whitegirl2w.jpg)
+<img src="{{ site.github.url }}/assets/img/whitegirl2w.jpg">
