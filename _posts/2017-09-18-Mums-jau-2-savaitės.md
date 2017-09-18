@@ -2,7 +2,7 @@
 layout: post
 title: "Mums jau 2 savaitės!"
 author: "Meškų žemė"
-categories: documentation
+categories: šuniukai
 tags: [documentation,sample]
 image:
   feature: 2sav.JPG
@@ -11,35 +11,51 @@ image:
 Šiandien švenčiame 2 savaičių jubiliejų. Šuniukai jau atsimerkę bei reaguoja į garsus. Bando vis daugiau žengti žingsnių nenugriuvus. Džiaugiamės stabiliu augimu bei pieno gausa.
 
 Svoris:
-1 Violetinis patinukas 1400g
-2 Oranžinis patinukas 1350g
-3 Auksinis patinukas 950g
-4 Žydras patinukas 1430g
-5 Cianas patinukas 1300g
-6 Raudonas patinukas 1150g
-7 Žalia patelė 1280g
-8 Žydra patelė 1250g
-9 Balta patelė 930g
+1. Violetinis patinukas 1400g
+1. Oranžinis patinukas 1350g
+1. Auksinis patinukas 950g
+1. Žydras patinukas 1430g
+1. Cianas patinukas 1300g
+1. Raudonas patinukas 1150g
+1. Žalia patelė 1280g
+1. Žydra patelė 1250g
+1. Balta patelė 930g
+
+-
 
 
-![Image of Yaktocat](/assets/img/cuba-2.jpg)
+### 1. Violetinis patinukas
+![Image of Yaktocat](/assets/img/violetboy2w.jpg)
+### 2. Oranžinis patinukas
 
-### Getting Started
 
-[Installation Guide]({{ site.github.url }}{% post_url 2016-12-12-Installation-Guide %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+![Image of Yaktocat](/assets/img/orangeboy2w.jpg)
+### 3. Auksinis patinukas
 
-### Using Millennial
 
-[Working With Jekyll]({{ site.github.url }}{% post_url 2016-11-11-Working-With-Jekyll %}): how to use Jekyll to create your own site.
+![Image of Yaktocat](/assets/img/goldenboy2w.jpg)
+### 4. Mėlynas patinukas
 
-[Working With Millennial]({{ site.github.url }}{% post_url 2016-10-10-Working-With-Millennial %}): information on features specific to this Jekyll theme.
 
-### Example Content
+![Image of Yaktocat](/assets/img/blueboy2w.jpg)
+### 5. Cianas patinukas
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2016-09-09-Text-Formatting %})
 
-[Math and Code Formatting]({{ site.github.url }}{% post_url 2016-08-08-Math-and-Code-Formatting %})
+![Image of Yaktocat](/assets/img/cyanboy2w.jpg)
+### 6. Raudonas patinukas
 
-### Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+![Image of Yaktocat](/assets/img/redboy2w.jpg)
+### 7. Žalia patelė
+
+
+![Image of Yaktocat](/assets/img/greengirl2w.jpg)
+### 8. Mėlyna patelė
+
+
+![Image of Yaktocat](/assets/img/bluegirl2w.jpg)
+### 9. Balta patelė
+
+
+
+![Image of Yaktocat](/assets/img/whitegirl2w.jpg)
