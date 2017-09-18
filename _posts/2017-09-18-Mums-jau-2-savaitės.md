@@ -8,7 +8,8 @@ image:
   feature: 2sav.JPG
 ---
 
-Šiandien švenčiame 2 savaičių jubiliejų. Šuniukai jau atsimerkę bei reaguoja į garsus. Bando vis daugiau žengti žingsnių nenugriuvus. Džiaugiamės stabiliu augimu bei pieno gausa.
+[Šiandien švenčiame 2 savaičių jubiliejų.] Šuniukai jau atsimerkę bei reaguoja į garsus. Bando vis daugiau žengti žingsnių nenugriuvus. Džiaugiamės stabiliu augimu bei pieno gausa.
+
 Svoris:
 1 Violetinis patinukas 1360g
 2 Oranžinis patinukas 1250g
