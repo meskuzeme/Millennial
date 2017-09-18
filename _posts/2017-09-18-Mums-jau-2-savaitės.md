@@ -11,15 +11,15 @@ image:
 Šiandien švenčiame 2 savaičių jubiliejų. Šuniukai jau atsimerkę bei reaguoja į garsus. Bando vis daugiau žengti žingsnių nenugriuvus. Džiaugiamės stabiliu augimu bei pieno gausa.
 
 Svoris:
-1 Violetinis patinukas 1360g
-2 Oranžinis patinukas 1250g
-3 Auksinis patinukas 850g
-4 Žydras patinukas 1350g
-5 Cianas patinukas 1220g
-6 Raudonas patinukas 1070g
-7 Žalia patelė 1240g
-8 Žydra patelė 1190g
-9 Balta patelė 910g
+1 Violetinis patinukas 1400g
+2 Oranžinis patinukas 1350g
+3 Auksinis patinukas 950g
+4 Žydras patinukas 1430g
+5 Cianas patinukas 1300g
+6 Raudonas patinukas 1150g
+7 Žalia patelė 1280g
+8 Žydra patelė 1250g
+9 Balta patelė 930g
 
 
 ![Image of Yaktocat](/assets/img/cuba-2.jpg)
