@@ -25,7 +25,8 @@ Svoris:
 
 
 ### 1. Violetinis patinukas
-![Image of Yaktocat](/assets/img/violetboy2w.jpg)
+<img src="{{ site.github.url }}/assets/img/violetboy2w.jpg">
+
 ### 2. Oranžinis patinukas
 
 
