@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amber 7 birthday"
+title: "Amber 7 years birthday"
 author: "Meškų žemė"
 categories: resources
 tags: [sample]
