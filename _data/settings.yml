@@ -2,7 +2,7 @@ title:  "Naujienos"
 tagline: "Meškų žemėje"
 description:
 author:
-  name: "Mežkų žemė"
+  name: "Meškų žemė"
   twitter: meskuzeme
 
 google-ID: "UA-106407565-1"
@@ -13,10 +13,10 @@ disqus:
   disqus_shortname: 'meskuzeme'
 
 menu:
-- {name: 'Naujienos iš parodų', file: 'facts.html'}
-- {name: 'Learning Resources', file: 'resources.html'}
-- {name: 'Sample Posts', file: 'sample-posts.html'}
-- {name: 'Šuniukai', file: 'documentation.html'}
+- {name: 'Parodų pasaulis', file: 'facts.html'}
+- {name: 'Apie veislę', file: 'resources.html'}
+- {name: 'Mūsų kelionės', file: 'sample-posts.html'}
+- {name: 'Šuniukai', file: 'suniukai.html'}
 - {name: 'About', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 

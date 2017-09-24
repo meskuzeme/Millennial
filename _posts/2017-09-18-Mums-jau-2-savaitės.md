@@ -2,8 +2,8 @@
 layout: post
 title: "Mums jau 2 savaitės!"
 author: "Meškų žemė"
-categories: šuniukai
-tags: [documentation,sample]
+categories: suniukai
+tags: [suniukai, documentation]
 image:
   feature: 2sav.JPG
 ---
