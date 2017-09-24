@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mums jau 2 savaitės!"
+title: "We are already two weeks old"
 author: "Meškų žemė"
 categories: suniukai
 tags: [suniukai, documentation]

@@ -14,10 +14,10 @@ disqus:
 
 menu:
 - {name: 'Parodų pasaulis', file: 'facts.html'}
-- {name: 'Apie veislę', file: 'resources.html'}
+- {name: 'Maži džiaugsmai', file: 'resources.html'}
 - {name: 'Mūsų kelionės', file: 'sample-posts.html'}
 - {name: 'Šuniukai', file: 'suniukai.html'}
-- {name: 'About', file: 'about.html'}
+- {name: 'Įdomi informacija', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
 social:
