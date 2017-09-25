@@ -13,11 +13,11 @@ disqus:
   disqus_shortname: 'meskuzeme'
 
 menu:
-- {name: 'Parodų pasaulis', file: 'facts.html'}
-- {name: 'Maži džiaugsmai', file: 'resources.html'}
-- {name: 'Mūsų kelionės', file: 'sample-posts.html'}
-- {name: 'Šuniukai', file: 'suniukai.html'}
-- {name: 'Įdomi informacija', file: 'about.html'}
+- {name: 'Dog shows', file: 'facts.html'}
+- {name: 'Kennel life', file: 'resources.html'}
+- {name: 'Our trips', file: 'sample-posts.html'}
+- {name: 'Puppys', file: 'suniukai.html'}
+- {name: 'Interesting information', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
 social:
