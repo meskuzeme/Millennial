@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New litter was born"
+title: "Gimė D-vada"
 author: "Meškų žemė"
 categories: suniukai
 tags: [sample]
@@ -10,9 +10,9 @@ image:
 
 BERNA + ESTAS = BESTAI :)
 
-2017-09-04 we have double celebration. Amber celebrated her 7 birthday and became a grandmother. Puppies were born on the way from the Speciality dog show in Latvia.
+2017-09-04 turime dvigubą šventę. Amber švenčia savo 7 gimtadienį. O pakeliui iš Latvijos klubinės parodos į šį pasaulį pasibeldė nauja vada.
 
-Puppys mother is Bernardette Meškų dvaras
+Šuniukų mama yra mūsų Bernardette Meškų dvaras
 (Amber Berncor x Lambert Tamanska Elitte)
-and puppys father is wonderfull Ridon Hennet Special Export (Joyeurope Van‘t Stokerybos x Private-Stefal Meisi To Ridon Hennet).
-6 male and 3 female.
+o šuniukų tėvas yra nuostabus Ridon Hennet Special Export (Joyeurope Van‘t Stokerybos x Private-Stefal Meisi To Ridon Hennet).
+Po 5 valandų gimdymo šį pasaulį išvydo 6 patinukai ir 3 patelės.

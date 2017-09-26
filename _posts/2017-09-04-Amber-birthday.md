@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amber 7 years birthday"
+title: "Amber 7 gimtadienis"
 author: "Meškų žemė"
 categories: resources
 tags: [sample]
@@ -8,4 +8,4 @@ image:
   feature: amber.jpg
 ---
 
-My Little lady Amber Berncor (Michaudville Thruman x Paloma Bler) already is 7 years old. The best gift for this birthday were words of the judge while we were running in the ring "What a young, joyfull active dog". My little one, we still have a long way to run together.
+Mano mažajai Amber Berncor (Michaudville Thruman x Paloma Bler) šiandien sukako 7 metai. Šiam gimtadieniui geriausia dovana buvo šunų parodos teisėjo žodžiai, kai mes įbėgome į ringa "Kokia jauna ir aktyvi mergytė". Mano mažylė, mes dar turime ilgą kelią nubėgti kartu. 

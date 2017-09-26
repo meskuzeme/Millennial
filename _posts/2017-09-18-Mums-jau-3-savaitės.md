@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We are already three weeks old"
+title: "Mums 3 savaitės, pirmi žingsniai lauke"
 author: "Meškų žemė"
 categories: suniukai
 tags: [suniukai, documentation]
