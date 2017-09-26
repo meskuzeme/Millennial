@@ -17,7 +17,7 @@ menu:
 - {name: 'Veislyno gyvenimas', file: 'resources.html'}
 - {name: 'Mūsų kelionės', file: 'sample-posts.html'}
 - {name: 'Šuniukai', file: 'suniukai.html'}
-- {name: 'Įdomi informacija, file: 'about.html'}
+- {name: 'Įdomi informacija', file: 'about.html'}
 - {name: 'Contact', file: 'contact.html'}
 
 social:
